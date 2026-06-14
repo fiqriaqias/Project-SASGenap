@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px auto;
+  background-color: #F8FAFC;
+  max-width: 400px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+h2 {
+  color: #333;
+  margin-top: 20px;
+}
+
+.container-form {
+  background-color: white;
+  padding: 20px;
+  width: 400px;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+}
+
+label {
+  font-size: 14px;
+  display: block;
+  margin-top: 10px;
+}
+
+input[type="text"] {
+  height: 28px;
+  width: 100%;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 0 8px;
+  margin-top: 3px;
+}
+
+select {
+  height: 28px;
+  width: 100%;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  margin-top: 3px;
+  margin-bottom: 5px;
+}
+
+input[type="submit"] {
+  margin-top: 15px;
+  padding: 6px 20px;
+  background-color: #2563EB;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #245cd6;
+}
+
+ul {
+  color: red;
+  margin: 10px 0;
+  padding-left: 20px;
+}
+
+.container-struk {
+  background-color: white;
+  padding: 20px;
+  width: 400px;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.container-struk label {
+  display: block;
+  font-size: 14px;
+  margin: 4px 0;
+}
