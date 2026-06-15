@@ -290,5 +290,6 @@ if (isset($_POST['struk'])) {
     } //akhir proses validasi 
 } //akhir isset
 ?>
+<script src="js/script.js"></script>
 </body>
 </html>
